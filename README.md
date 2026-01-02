@@ -60,8 +60,10 @@ cd finance-manager
 pip install -r requirements.txt
 python main.py
 
-📊 Excel Report
+---
 
+## 📊 Excel Report
+```bash
 The exported Excel file includes:
 
 - “Transactions” sheet — all operations
@@ -70,7 +72,7 @@ The exported Excel file includes:
 
 - Pie chart (income vs expenses)
 
-👤 Author
+## 👤 Author
 
 This project was developed for educational and practical purposes
 as a demonstration of a Python desktop application.
