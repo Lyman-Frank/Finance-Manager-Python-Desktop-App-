@@ -55,7 +55,7 @@ and looks like a modern desktop application.
 ## 📦 Installation and Run
 
 ```bash
-git clone https://github.com/USERNAME/finance-manager.git
+git clone https://github.com/USERNAME/Finance-Manager-Python-Desktop-App-.git
 cd finance-manager
 pip install -r requirements.txt
 python main.py
