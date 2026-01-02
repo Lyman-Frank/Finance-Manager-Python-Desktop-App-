@@ -63,7 +63,7 @@ python main.py
 ---
 
 ## 📊 Excel Report
-```bash
+
 The exported Excel file includes:
 
 - “Transactions” sheet — all operations
@@ -71,11 +71,12 @@ The exported Excel file includes:
 - “Summary” sheet — income, expenses, balance
 
 - Pie chart (income vs expenses)
-```
+
 ---
+
 ## 👤 Author
-```bash
+
 This project was developed for educational and practical purposes
 as a demonstration of a Python desktop application.
-```
+
 ---
