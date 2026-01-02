@@ -59,7 +59,7 @@ git clone https://github.com/USERNAME/Finance-Manager-Python-Desktop-App-.git
 cd finance-manager
 pip install -r requirements.txt
 python main.py
-
+```
 ---
 
 ## 📊 Excel Report
@@ -71,8 +71,11 @@ The exported Excel file includes:
 - “Summary” sheet — income, expenses, balance
 
 - Pie chart (income vs expenses)
-
+```
+---
 ## 👤 Author
-
+```bash
 This project was developed for educational and practical purposes
 as a demonstration of a Python desktop application.
+```
+---
